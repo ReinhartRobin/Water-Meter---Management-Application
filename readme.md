@@ -1,5 +1,5 @@
-# HTL Leonding Diploma Thesis Template
+# WATER METER - MANAGEMENT APPLICATION
 
-Used by students to create their diploma thesis.
+HTL Leonding Diploma Thesis
 
 ![HTBLA Leonding](titlepage/htlleondinglogo.png)
